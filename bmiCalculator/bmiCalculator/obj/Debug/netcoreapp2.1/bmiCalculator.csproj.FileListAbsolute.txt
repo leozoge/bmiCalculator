@@ -1,0 +1,11 @@
+D:\Projetos\bmiCalculator\bmiCalculator\bmiCalculator\bin\Debug\netcoreapp2.1\bmiCalculator.deps.json
+D:\Projetos\bmiCalculator\bmiCalculator\bmiCalculator\bin\Debug\netcoreapp2.1\bmiCalculator.runtimeconfig.json
+D:\Projetos\bmiCalculator\bmiCalculator\bmiCalculator\bin\Debug\netcoreapp2.1\bmiCalculator.runtimeconfig.dev.json
+D:\Projetos\bmiCalculator\bmiCalculator\bmiCalculator\bin\Debug\netcoreapp2.1\bmiCalculator.dll
+D:\Projetos\bmiCalculator\bmiCalculator\bmiCalculator\bin\Debug\netcoreapp2.1\bmiCalculator.pdb
+D:\Projetos\bmiCalculator\bmiCalculator\bmiCalculator\obj\Debug\netcoreapp2.1\bmiCalculator.csprojAssemblyReference.cache
+D:\Projetos\bmiCalculator\bmiCalculator\bmiCalculator\obj\Debug\netcoreapp2.1\bmiCalculator.csproj.CoreCompileInputs.cache
+D:\Projetos\bmiCalculator\bmiCalculator\bmiCalculator\obj\Debug\netcoreapp2.1\bmiCalculator.AssemblyInfoInputs.cache
+D:\Projetos\bmiCalculator\bmiCalculator\bmiCalculator\obj\Debug\netcoreapp2.1\bmiCalculator.AssemblyInfo.cs
+D:\Projetos\bmiCalculator\bmiCalculator\bmiCalculator\obj\Debug\netcoreapp2.1\bmiCalculator.dll
+D:\Projetos\bmiCalculator\bmiCalculator\bmiCalculator\obj\Debug\netcoreapp2.1\bmiCalculator.pdb
