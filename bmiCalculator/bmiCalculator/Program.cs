@@ -43,7 +43,8 @@ namespace bmiCalculator
             }
             Console.ReadLine();
 
-            // FORMULA: IMC= peso/altura²//
+        //FORMULA BMI= weight/height²//
+        //FÓRMULA IMC= peso/altura²//
         }
     }
 }
